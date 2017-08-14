@@ -2,14 +2,14 @@
 ### Introduction to building a fully functional applications using REACT.
 * Introduction
 * Environment setup
-- Our development environment should be able to handle.
-   > Automated testing.
-   > Linting.
-   > Minification.
-   > Bundling
-   > JSX compilation
-   > ES6 transpilation.
-   > One command.
+- Our development environment should be able to handle:
+   - Automated testing.
+   - Linting.
+   - Minification.
+   - Bundling
+   - JSX compilation
+   - ES6 transpilation.
+   - One command.
 * React component approaches
 * Initial App Structure
 * Redux Introduction
