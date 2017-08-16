@@ -93,3 +93,8 @@ more info on this : bit.ly/react-define-component
 |Know about redux.(They have redux code) | Doesn't know anything about redux. Doesn't specify how data is loaded or muted.|
 |Often stateful. | Typically functional components.|
 
+#### Create app foundation.
+* Create our first pages.
+* Create layout.
+* Configure routing.
+* Setup navigation.
