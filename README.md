@@ -1,5 +1,5 @@
 # Bookings
-### Introduction to building a fully functional applications using REACT.
+### Introduction to building a fully functional application using REACT.
 * Introduction
 * Environment setup
 - Our development environment should be able to handle:
